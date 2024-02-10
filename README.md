@@ -8,3 +8,5 @@
 локально branch secmain, checkout secmain
 
 git push --set-upstream origin secmain для добавления в веб 2 ветки+редачим+merge
+
+ща как веб законфликчу
