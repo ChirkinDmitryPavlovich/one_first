@@ -9,3 +9,4 @@
 
 git push --set-upstream origin secmain для добавления в веб 2 ветки+редачим+merge
 
+конфликтуем
